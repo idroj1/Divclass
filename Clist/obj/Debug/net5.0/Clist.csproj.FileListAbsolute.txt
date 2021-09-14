@@ -1,0 +1,12 @@
+/Users/jordi/Desktop/Divclass/Clist/bin/Debug/net5.0/Clist.deps.json
+/Users/jordi/Desktop/Divclass/Clist/bin/Debug/net5.0/Clist.dll
+/Users/jordi/Desktop/Divclass/Clist/bin/Debug/net5.0/ref/Clist.dll
+/Users/jordi/Desktop/Divclass/Clist/bin/Debug/net5.0/Clist.pdb
+/Users/jordi/Desktop/Divclass/Clist/obj/Debug/net5.0/Clist.csproj.AssemblyReference.cache
+/Users/jordi/Desktop/Divclass/Clist/obj/Debug/net5.0/Clist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jordi/Desktop/Divclass/Clist/obj/Debug/net5.0/Clist.AssemblyInfoInputs.cache
+/Users/jordi/Desktop/Divclass/Clist/obj/Debug/net5.0/Clist.AssemblyInfo.cs
+/Users/jordi/Desktop/Divclass/Clist/obj/Debug/net5.0/Clist.csproj.CoreCompileInputs.cache
+/Users/jordi/Desktop/Divclass/Clist/obj/Debug/net5.0/Clist.dll
+/Users/jordi/Desktop/Divclass/Clist/obj/Debug/net5.0/ref/Clist.dll
+/Users/jordi/Desktop/Divclass/Clist/obj/Debug/net5.0/Clist.pdb
