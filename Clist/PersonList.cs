@@ -6,6 +6,9 @@ namespace Clist
 {
     public class PersonList
     {
-        
+        public static Dictionary<string, List<string>> Topic, List<string> Topic()
+        {
+
+        }
     }
 }

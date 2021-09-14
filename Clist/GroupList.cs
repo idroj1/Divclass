@@ -1,27 +1,17 @@
 ﻿using System;
-using System.Collection.Generic;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace Clist
 {
     public class GroupList
     {
-        public static Dictionary<string, List<string>> Groups, List<string> Topic()
+        public static Dictionary<string, List<string>> GroupsTopics (List<string> Person, List<string> Topic)
         {
-
+            if(Person==null||!Person.Any()||Topic==null||!Topic.Any())
+            {
+                throw new IndexOutOfRangeException();
+            }
         }
-    }
-
-    public class TopicList
-    {
-        public static Dictionary<string, List<string>> Topic, List<string> Topic()
-        {
-
-        }
-    }
-
-    public class PersonList
-    {
-        
     }
 }
